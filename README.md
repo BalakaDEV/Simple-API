@@ -11,4 +11,3 @@
 pip install flask
 ```
 
-[Dev by: Guilherme Balaka](https://github.com/BalakaDEV)<br>
